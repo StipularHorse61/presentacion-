@@ -1,0 +1,1 @@
+console.log("hola soy Jose Juan Me gusta programar videojuegos y jugarlos");
